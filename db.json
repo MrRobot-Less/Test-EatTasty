@@ -1,0 +1,38 @@
+{
+    "pizzas":[
+        {
+            "id": 0,
+            "name": "Primavera Pizza",
+            "src": "pizza1.png",
+            "price": 15
+        },
+        {
+            "id": 1,
+            "name": "Autumn Pizza",
+            "src": "pizza2.png",
+            "price": 20
+        },
+        {
+            "id": 2,
+            "name": "Summer Pizza",
+            "src": "pizza3.png",
+            "price": 18
+        }
+
+    ],
+    "sodas" : [
+        {
+            "id": 0,
+            "name": "Coca Cola - 2l",
+            "src": "coca-cola.png",
+            "price": 10
+        },
+        {
+            "id": 0,
+            "name": "Pepsi - 500ml",
+            "src": "pepsi.png",
+            "price": 6
+        }
+    ]
+    
+}
